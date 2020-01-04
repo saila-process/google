@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5440" started-at="2020-01-03T10:44:24Z" finished-at="2020-01-03T10:44:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5440" started-at="2020-01-03T10:44:24Z" finished-at="2020-01-03T10:44:29Z">
+      <class name="TestPage.hometest">
+        <test-method status="PASS" signature="clickwomen()[pri:0, instance:TestPage.hometest@20f5239f]" name="clickwomen" duration-ms="4812" started-at="2020-01-03T16:14:24Z" finished-at="2020-01-03T16:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickwomen -->
+        <test-method status="PASS" signature="verifylarge()[pri:0, instance:TestPage.hometest@20f5239f]" name="verifylarge" duration-ms="340" started-at="2020-01-03T16:14:29Z" finished-at="2020-01-03T16:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylarge -->
+        <test-method status="PASS" signature="verifymedium()[pri:0, instance:TestPage.hometest@20f5239f]" name="verifymedium" duration-ms="120" started-at="2020-01-03T16:14:29Z" finished-at="2020-01-03T16:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymedium -->
+        <test-method status="PASS" signature="verifysmall()[pri:0, instance:TestPage.hometest@20f5239f]" name="verifysmall" duration-ms="76" started-at="2020-01-03T16:14:29Z" finished-at="2020-01-03T16:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysmall -->
+      </class> <!-- TestPage.hometest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
