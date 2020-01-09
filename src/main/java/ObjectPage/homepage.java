@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class homepage extends basecls{
 	
-	@FindBy1234(xpath=("//a[@title='Women']"))
+	@FindBy1(xpath=("//a[@title='Women']"))
 	private WebElement women;
 	
 	@FindBy(xpath=("//div//label[@for='layered_id_attribute_group_1']"))
